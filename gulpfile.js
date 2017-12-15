@@ -64,7 +64,7 @@ gulp.task('run', ['serve'], () => {
         watch: jsFiles
     };
 
-    return nodemon ('./server.js localhost 8080')
+    return nodemon ('./server.js')
     });
 
 

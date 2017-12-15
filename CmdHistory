@@ -1,0 +1,137 @@
+    1   npm install http-server -g
+    2  cd G:\PapaData\Mobil2017\01 JavaScript\javascript-bootcamp-2016\06 Errors  Debugging\attached_files\069 Debugging with the Browser Developer Tools
+    3  cd G:\PapaData\Mobil2017\01 JavaScript\javascript-bootcamp-2016ls
+    4  pwd
+    5   npm install http-server -g
+    6  pwd
+    7  cd /
+    8  ls
+    9  ls
+   10  ls -al | more
+   11  ls -al 
+   12  cd Desktop/
+   13  dir
+   14  ls
+   15  ls -al
+   16  ls
+   17  cd toto
+   18  pwd
+   19  ls
+   20  cd ls
+   21  cd toto.lnk 
+   22  cd Desktop/test/
+   23   npm install http-server -g
+   24  http-server
+   25  ls
+   26  cd public/
+   27  cd ..
+   28  grep -i 
+   29  exit
+   30  cd Desktop/
+   31  cd test/first-prj/
+   32  ls -altr
+   33  cat package.json 
+   34  gulp watch
+   35  gulp watch
+   36  gulp watch
+   37  gulp watch
+   38  gulp watch
+   39  gulp watch
+   40  cd Desktop/test/first-prj/
+   41  gulp icons
+   42  clear
+   43  gulp icons
+   44  gulp icons
+   45  cd 'C:\Users\JMLaptop\Desktop\test\first-prj\app\assets\images\sprites'
+   46  ls
+   47  ls -altr
+   48  gulp icons
+   49  gulp icons
+   50  gulp icons
+   51  cd ../../../
+   52  cd ../
+   53  gulp icons
+   54  git status
+   55  git add -A
+   56  git status
+   57  git status
+   58  git add -A
+   59  git status
+   60  git commit -m 'Added browser support fallbacks (see flexbox in row.css).'
+   61   git checkout master
+   62  git merge browser-support 
+   63  git status
+   64  git add -A
+   65  git commit -m 'Added browser support fallbacks (see flexbox in row.css).'
+   66  git branch
+   67  git checkout browser-support 
+   68  git status
+   69  git add -A
+   70  git status
+   71  git commit -m 'Added browser support fallbacks (see flexbox in row.css).'
+   72   git checkout master
+   73  git merge browser-support 
+   74  clear
+   75  cd Desktop/MEAN.lnk 
+   76  cd g:
+   77  cd PapaData/Projects/library/
+   78  npm install --save-dev gulp-nodemon
+   79  cat package.json 
+   80  gulp serve
+   81  gulp serve
+   82  gulp serve
+   83  gulp serve
+   84  clear
+   85  gulp serve
+   86  gulp serve
+   87  node --v
+   88  node -v
+   89  pwd
+   90  npm install
+   91  gulp serve
+   92  gulp serve
+   93  gulp serve
+   94  gulp app
+   95* node 
+   96  gulp run
+   97  gulp run
+   98  gulp run
+   99  node server.js 
+  100  gulp run
+  101  node server.js 
+  102  gulp run
+  103  gulp run
+  104  gulp run
+  105  git status
+  106  pwd
+  107  git -h
+  108  git --help
+  109  git --help init
+  110  clear
+  111  pwd
+  112  git init
+  113  git status
+  114  git -A add
+  115  git add -A
+  116  ls -alre
+  117* .gitignore 
+  118  ls -alre
+  119  ls -altr
+  120  rm -rg .git
+  121  rm -rf .git
+  122  git init
+  123  ls -altr
+  124  git add -A
+  125  ls -alre
+  126  ls -altr
+  127  pwd
+  128  clear
+  129  ls
+  130  ls -a
+  131  ls 
+  132  git status
+  133  git commit -m 'library part 1 12-15-2017'
+  134  git status
+  135  gulp run
+  136  gulp run
+  137  history >> CmdHistory
